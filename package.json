@@ -1,0 +1,11 @@
+{
+  "name": "shamis-event-manager",
+  "version": "1.0.0",
+  "description": "Shamis Event Manager - Express + MySQL CRUD",
+  "main": "app.js",
+  "scripts": { "start": "node app.js" },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mysql8": "^2.17.3"
+  }
+}
